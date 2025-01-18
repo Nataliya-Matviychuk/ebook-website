@@ -44,4 +44,4 @@ To add your own custom styles, use the `styles.scss` file.
 Project was created with support of [Nazar Pichak](https://github.com/Nazar-Pichak) as a mentoring part for [Nataliya Matviychuk](https://github.com/Nataliya-Matviychuk)
 and debug process for responsive layout was taken as well.
 
-**Copy &copy; by Nataliya Matviychuk 2025**
+**Copyright &copy; by Nataliya Matviychuk 2025**
