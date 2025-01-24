@@ -13,6 +13,7 @@ Bootstrap website for downloading a free E-book. This website has a light, busin
 - Form & input styles
 - Testimonials
 - Contact page with Google Map
+- [Formspree service](https://formspree.io/) for activation email form.
 
 ## Usage
 
@@ -39,3 +40,8 @@ npm run sass:watch
 You can add Bootstrap variables to the `bootstrap.scss` file. You can look at the file `node_modules/bootstrap/dist/scss/_variables.scss` for a list of all the variables. Do NOT edit the `variables.scss` file directly, as it will be overwritten when you update Bootstrap.
 
 To add your own custom styles, use the `styles.scss` file.
+
+Project was created with support of [Nazar Pichak](https://github.com/Nazar-Pichak) as a mentoring part for [Nataliya Matviychuk](https://github.com/Nataliya-Matviychuk)
+and debug process for responsive layout was taken as well.
+
+**Copyright &copy; by Nataliya Matviychuk 2025**
